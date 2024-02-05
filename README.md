@@ -1,1 +1,1 @@
-# analysis-of-Hill2017-replication-study
+This repository is part of a large replication project conducted by the Sports Science Replication Centre (https://ssreplicationcentre.com/). It includes the data and analyses for the replication study of "Further Evidence for an External Focus of Attention in Running: Looking at Specific Focus Instructions and Individual Differences" by Hill et al (2017).
